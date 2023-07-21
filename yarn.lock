@@ -5479,6 +5479,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"bun-types@npm:^1.0.1":
+  version: 1.0.1
+  resolution: "bun-types@npm:1.0.1"
+  checksum: c9126b0b0386374b9e50db417e26467c149e7d84a207223083def4770be515f4a68af5ef1287e2ae84f4be6d68b0b2bbb6bf971e4964fe6c99b669f5b0f1ad4c
+  languageName: node
+  linkType: hard
+
 "bytes@npm:3.0.0":
   version: 3.0.0
   resolution: "bytes@npm:3.0.0"
@@ -10235,6 +10242,7 @@ __metadata:
     "@swc/jest": ^0.2.29
     "@types/jest": ^29.5.4
     "@types/node": ^18.17.13
+    bun-types: ^1.0.1
     env-cmd: ^10.1.0
     jest: ^29.6.4
     jest-junit: ^16.0.0
